@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473544287 source:/home/ugly_muffin/Desktop/desktop_folder/code::blocks/chapter_7_exercises/chapter_7_exercise_10/main.c
+	<stdio.h>
+	<ctype.h>
+
