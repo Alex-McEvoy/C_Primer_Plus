@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1474220746 source:/home/ugly_muffin/Desktop/desktop_folder/code::blocks/chapter_9_exercises/chapter_9_exercise_2/main.c
+	<stdio.h>
+	<math.h>
+
